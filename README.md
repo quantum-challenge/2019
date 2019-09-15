@@ -1,6 +1,6 @@
 ![image of qcchallenge logo](qcc_banner.png)
 # Welcome to IBM Quantum Challenge!
-[日本語へ飛ぶ](#ibm-quantum-challengeへようこそ)<br/>
+[日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
 First of all, thank you for taking interest in this challenge and for signing up for the competition. 
 Before you get started, we have a few important notices to remind you.
 
@@ -27,8 +27,7 @@ We will upload the challenge content each week on the following dates.<br/>
 
 | Week  | Challenge | Live Update |
 | ---     | ---    | --- |
-| Week 0  |[New to Quantum?](#the-road-to-final-challenge)  | Sept 16th, 2019|
-| Week 1  |[Week 1 Learning Challenge Exercise](#the-road-to-final-challenge)  | Sept 16th, 2019 |
+| Week 1  |[Week 1 Learning Challenge Exercise](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1_en.ipynb)  | Sept 16th, 2019 |
 | Week 2  |[Week 2 Learning Challenge Exercise](#the-road-to-final-challenge)  | Sept 23rd, 2019 |
 | Week 3  |[Week 3 Learning Challenge Exercise](#the-road-to-final-challenge) | Sept 30th, 2019 |
 | Week 4  |[Week 4 Final Challenge Problem](#the-road-to-final-challenge) | Oct 7th, 2019 |
@@ -61,8 +60,7 @@ $ pip install qiskit
 
 | Week  | Challenge | Live Update |
 | ---     | ---    | --- |
-| Week 0  |[初学者向け学習リソース](#ファイナルチャレンジへのロードマップ) | Sept 16th, 2019|
-| Week 1  |[Week 1 ラーニングチャレンジ演習](#ファイナルチャレンジへのロードマップ) | Sept 16th, 2019 |
+| Week 1  |[Week 1 ラーニングチャレンジ演習](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1.ipynb) | Sept 16th, 2019 |
 | Week 2  |[Week 2 ラーニングチャレンジ演習](#ファイナルチャレンジへのロードマップ) | Sept 23rd, 2019 |
 | Week 3  |[Week 3 ラーニングチャレンジ演習](#ファイナルチャレンジへのロードマップ) | Sept 30th, 2019 |
 | Week 4  |[Week 4 ファイナルチャレンジ（本戦)](#ファイナルチャレンジへのロードマップ) | Oct 7th, 2019 |
