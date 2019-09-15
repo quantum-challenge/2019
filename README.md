@@ -28,9 +28,9 @@ We will upload the challenge content each week on the following dates.<br/>
 | Week  | Challenge | Scheduled Update Date  |
 | ---     | ---    | --- |
 | Week 1  |[Week 1 Learning Challenge Exercise](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1_en.ipynb)  | Sept 16th, 2019 |
-| Week 2  |[Week 2 Learning Challenge Exercise](#the-road-to-final-challenge)  | Sept 23rd, 2019 |
-| Week 3  |[Week 3 Learning Challenge Exercise](#the-road-to-final-challenge) | Sept 30th, 2019 |
-| Week 4  |[Week 4 Final Challenge Problem](#the-road-to-final-challenge) | Oct 7th, 2019 |
+| Week 2  |Week 2 Learning Challenge Exercise | Sept 23rd, 2019 |
+| Week 3  |Week 3 Learning Challenge Exercise | Sept 30th, 2019 |
+| Week 4  |Week 4 Final Challenge Problem | Oct 7th, 2019 |
 
 
 --------------------------------
