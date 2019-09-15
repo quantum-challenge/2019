@@ -25,7 +25,7 @@ Please check out [Install Qiskit](https://qiskit.org/documentation/install.html)
 ## Challenge Index
 We will upload the challenge content each week on the following dates.<br/>
 
-| Week  | Challenge | Live Update |
+| Week  | Challenge | Scheduled Update Date  |
 | ---     | ---    | --- |
 | Week 1  |[Week 1 Learning Challenge Exercise](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1_en.ipynb)  | Sept 16th, 2019 |
 | Week 2  |[Week 2 Learning Challenge Exercise](#the-road-to-final-challenge)  | Sept 23rd, 2019 |
@@ -58,9 +58,9 @@ $ pip install qiskit
 ## チャレンジ内容
 毎週以下の日付にそれぞれのチャレンジ内容を更新します。<br/>
 
-| Week  | Challenge | Live Update |
+| Week  | Challenge | Scheduled Update Date |
 | ---     | ---    | --- |
 | Week 1  |[Week 1 ラーニングチャレンジ演習](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1.ipynb) | Sept 16th, 2019 |
-| Week 2  |[Week 2 ラーニングチャレンジ演習](#ファイナルチャレンジへのロードマップ) | Sept 23rd, 2019 |
-| Week 3  |[Week 3 ラーニングチャレンジ演習](#ファイナルチャレンジへのロードマップ) | Sept 30th, 2019 |
-| Week 4  |[Week 4 ファイナルチャレンジ（本戦)](#ファイナルチャレンジへのロードマップ) | Oct 7th, 2019 |
+| Week 2  |Week 2 ラーニングチャレンジ演習 | Sept 23rd, 2019 |
+| Week 3  |Week 3 ラーニングチャレンジ演習| Sept 30th, 2019 |
+| Week 4  |Week 4 ファイナルチャレンジ（本戦) | Oct 7th, 2019 |
