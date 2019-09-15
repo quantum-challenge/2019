@@ -1,7 +1,7 @@
 ![image of qcchallenge logo](qcc_banner.png)
 # Welcome to IBM Quantum Challenge!
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
-First of all, thank you for taking interest in this challenge and for signing up for the competition. 
+First of all, thank you for signing up for the competition! We are excited to see you take interest in this challenge.
 Before you get started, we have a few important notices to remind you.
 
 ## Registration
@@ -9,7 +9,7 @@ If you have not gone through the registration process yet, please make sure to g
 
 The challenge period goes on for four weeks from September 16th to October 14th, 2019. The first three weeks will be a series of learning challenges during which anyone who is eligible may register to join the competition. Registration closes when the final challenge starts on October 7th, 2019.
 
-So, assuming you are all set, let's get started!
+Assuming you are all set, let's get started!
 
 ## Installation
 In IBM Quantum Challenge, you will need to code with **Qiskit**. Qiskit is a Python based opensource framework for working with quantum computers at the level of pulses, circuits, and algorithms. Please see the [Qiskit.org](https://qiskit.org) page for more details.
@@ -35,7 +35,7 @@ We will upload the challenge content each week on the following dates.<br/>
 
 --------------------------------
 # IBM Quantum Challengeへようこそ！
-当チャレンジへのご参加ありがとうございます。
+当チャレンジへの参加ありがとうございます。
 コンテストの参加にあたって、いくつか重要なお知らせがありますので、必ずご確認ください。
 
 ## 参加登録
@@ -58,7 +58,7 @@ $ pip install qiskit
 ## チャレンジ内容
 毎週以下の日付にそれぞれのチャレンジ内容を更新します。<br/>
 
-| ステージ  | チャレンジ | 更新予定日 |
+| ウィーク | チャレンジ | 更新予定日 |
 | ---     | ---    | --- |
 | Week 1  |[ラーニングチャレンジ演習 I](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1.ipynb) | Sept 16th, 2019 |
 | Week 2  |ラーニングチャレンジ演習 II | Sept 23rd, 2019 |
