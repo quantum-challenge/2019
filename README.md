@@ -27,10 +27,10 @@ We will upload the challenge content each week on the following dates.<br/>
 
 | Week  | Challenge | Scheduled Update Date  |
 | ---     | ---    | --- |
-| Week 1  |[Week 1 Learning Challenge Exercise](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1_en.ipynb)  | Sept 16th, 2019 |
-| Week 2  |Week 2 Learning Challenge Exercise | Sept 23rd, 2019 |
-| Week 3  |Week 3 Learning Challenge Exercise | Sept 30th, 2019 |
-| Week 4  |Week 4 Final Challenge Problem | Oct 7th, 2019 |
+| Week 1  |[Learning Challenge Exercise I](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1_en.ipynb)  | Sept 16th, 2019 |
+| Week 2  |Learning Challenge Exercise II | Sept 23rd, 2019 |
+| Week 3  |¥Learning Challenge Exercise III| Sept 30th, 2019 |
+| Week 4  |Final Challenge| Oct 7th, 2019 |
 
 
 --------------------------------
@@ -58,9 +58,9 @@ $ pip install qiskit
 ## チャレンジ内容
 毎週以下の日付にそれぞれのチャレンジ内容を更新します。<br/>
 
-| Week  | Challenge | Scheduled Update Date |
+| ステージ  | チャレンジ | 更新予定日 |
 | ---     | ---    | --- |
-| Week 1  |[Week 1 ラーニングチャレンジ演習](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1.ipynb) | Sept 16th, 2019 |
-| Week 2  |Week 2 ラーニングチャレンジ演習 | Sept 23rd, 2019 |
-| Week 3  |Week 3 ラーニングチャレンジ演習| Sept 30th, 2019 |
-| Week 4  |Week 4 ファイナルチャレンジ（本戦) | Oct 7th, 2019 |
+| Week 1  |ラーニングチャレンジ演習 I](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1.ipynb) | Sept 16th, 2019 |
+| Week 2  |ラーニングチャレンジ演習 II | Sept 23rd, 2019 |
+| Week 3  |ラーニングチャレンジ演習 III| Sept 30th, 2019 |
+| Week 4  |ファイナルチャレンジ(本戦) | Oct 7th, 2019 |
