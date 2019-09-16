@@ -61,7 +61,7 @@ $ pip install qiskit
 
 | ウィーク | チャレンジ | 更新予定日 |
 | ---     | ---    | --- |
-| Week 1  |[初心者向け:量子計算の基礎](http://localhost:8888/notebooks/2019/problems/week0/week0.ipynb)  | Sept 16th, 2019 |
+| Week 1  |[初心者向け:量子計算の基礎](https://github.com/quantum-challenge/2019/blob/master/problems/week0/week0.ipynb)  | Sept 16th, 2019 |
 | Week 1  |[ラーニングチャレンジ演習 I](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1.ipynb) | Sept 16th, 2019 |
 | Week 2  |ラーニングチャレンジ演習 II | Sept 23rd, 2019 |
 | Week 3  |ラーニングチャレンジ演習 III| Sept 30th, 2019 |
