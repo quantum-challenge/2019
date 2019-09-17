@@ -27,7 +27,7 @@ We will upload the challenge content each week on the following dates.<br/>
 
 | Week  | Challenge | Scheduled Update Date  |
 | ---     | ---    | --- |
-| Week 1  |[For Beginners: The atoms of computation](https://quantum-computing.ibm.com/support/guides/introduction-to-quantum-circuits?page=5cae6b9d35dafb4c01214bb1)  | Sept 16th, 2019 |
+| Week 0  |[For Beginners: The atoms of computation](https://quantum-computing.ibm.com/support/guides/introduction-to-quantum-circuits?page=5cae6b9d35dafb4c01214bb1)  | Sept 16th, 2019 |
 | Week 1  |[Learning Challenge Exercise I](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1_en.ipynb)  | Sept 16th, 2019 |
 | Week 2  |Learning Challenge Exercise II | Sept 23rd, 2019 |
 | Week 3  |Learning Challenge Exercise III| Sept 30th, 2019 |
