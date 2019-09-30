@@ -27,12 +27,11 @@ We will upload the challenge content each week on the following dates.<br/>
 
 | Week  | Challenge | Scheduled Update Date  |
 | ---     | ---    | --- |
-| Week 0  |[For Beginners: The atoms of computation](https://quantum-computing.ibm.com/support/guides/introduction-to-quantum-circuits?page=5cae6b9d35dafb4c01214bb1)  | Sept 16th, 2019 |
-| Week 1  |[Learning Challenge Exercise I](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1_en.ipynb)  | Sept 16th, 2019 |
+| Week 0 |[For Beginners: The atoms of computation](https://quantum-computing.ibm.com/support/guides/introduction-to-quantum-circuits?page=5cae6b9d35dafb4c01214bb1)  | Sept 16th, 2019 |
+| Week 1 |[Learning Challenge Exercise I](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1_en.ipynb) | Sept 16th, 2019 |
 | Week 2  |[Learning Challenge Exercise II](https://github.com/quantum-challenge/2019/blob/master/problems/week2/week2_en.ipynb) | Sept 23rd, 2019 |
-| Week 3  |Learning Challenge Exercise III| Sept 30th, 2019 |
-| Week 4  |Final Challenge| Oct 7th, 2019 |
-
+| Week 3  |[Learning Challenge Exercise III](https://github.com/quantum-challenge/2019/blob/master/problems/week3/week3_en.ipynb)| Sept 30th, 2019 |
+| Week 4  |Final Challenge | Oct 7th, 2019 |
 
 --------------------------------
 # IBM Quantum Challengeへようこそ！
@@ -61,8 +60,8 @@ $ pip install qiskit
 
 | ウィーク | チャレンジ | 更新予定日 |
 | ---     | ---    | --- |
-| Week 0  |[初心者向け:量子計算の基礎](https://github.com/quantum-challenge/2019/blob/master/problems/week0/week0.ipynb)  | Sept 16th, 2019 |
-| Week 1  |[ラーニングチャレンジ演習 I](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1.ipynb) | Sept 16th, 2019 |
+| Week 0 |[初心者向け:量子計算の基礎](https://github.com/quantum-challenge/2019/blob/master/problems/week0/week0.ipynb)  | Sept 16th, 2019 |
+| Week 1 |[ラーニングチャレンジ演習 I](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1.ipynb) | Sept 16th, 2019 |
 | Week 2  |[ラーニングチャレンジ演習 II](https://github.com/quantum-challenge/2019/blob/master/problems/week2/week2.ipynb) | Sept 23rd, 2019 |
-| Week 3  |ラーニングチャレンジ演習 III| Sept 30th, 2019 |
+| Week 3  |[ラーニングチャレンジ演習 III](https://github.com/quantum-challenge/2019/blob/master/problems/week3/week3.ipynb)| Sept 30th, 2019 |
 | Week 4  |ファイナルチャレンジ(本戦) | Oct 7th, 2019 |
