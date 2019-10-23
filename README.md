@@ -1,6 +1,13 @@
 ![image of qcchallenge logo](qcc_banner.png)
 # Welcome to IBM Quantum Challenge!
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
+
+### Thank you! We have completed this challenge on Oct 14th, 2019. 
+
+## Leaderboard
+The [Leaderboard](https://github.com/quantum-challenge/2019/blob/master/problems/final/Leader_Board.ipynb) shows the scores and standings of contestants who have submitted their code to the final challenge.
+
+--------------------------------
 First of all, thank you for signing up for the competition! We are excited to see you take interest in this challenge.
 Before you get started, we have a few important notices to remind you.
 
@@ -23,7 +30,7 @@ $ pip install qiskit
 Please check out [Install Qiskit](https://qiskit.org/documentation/install.html) or watch this [YouTube video](https://www.youtube.com/watch?v=M4EkW4VwhcI) for a step by step installaion guide.
 
 ## Challenge Index
-We will upload the challenge content each week on the following dates.<br/>
+The challenge content has been shared with the public on the following dates.<br/>
 
 | Week  | Challenge | Scheduled Update Date  |
 | ---     | ---    | --- |
@@ -33,10 +40,27 @@ We will upload the challenge content each week on the following dates.<br/>
 | Week 3  |[Learning Challenge Exercise III](https://github.com/quantum-challenge/2019/blob/master/problems/week3/week3_en.ipynb)| Sept 30th, 2019 |
 | Week 4  |[Final Challenge](https://github.com/quantum-challenge/2019/blob/master/problems/final/Final_en.ipynb)  | Oct 7th, 2019 |
 
+## Sample Solution
+Judges share a sample solution [here](https://github.com/quantum-challenge/2019/blob/master/problems/final/answer_and_comment_by_judges_en.ipynb) to the final challenge. Our contestants came up with even more creative and imaginative solutions which was very cool!
+
+## Top Team's Submissions
+Check out some of the top team's write-ups on how they were able to solve the problem and achieve lower quantum costs [here](https://github.com/quantum-challenge/2019/tree/master/top%20ten%20submissions)! 
+
 --------------------------------
 # IBM Quantum Challengeへようこそ！
 当チャレンジへの参加ありがとうございます。
 コンテストの参加にあたって、いくつか重要なお知らせがありますので、必ずご確認ください。
+
+### 当コンテストは2019年10月14日に終了しました。 
+
+## 順位表
+[順位表](https://github.com/quantum-challenge/2019/blob/master/problems/final/Leader_Board.ipynb):ファイナルチャレンジにコードを提出した競技者のスコアと順位。
+
+## ファイナルチャレンジの解法解説
+[チャレンジ解説](https://github.com/quantum-challenge/2019/blob/master/problems/final/answer_and_comment_by_judges.ipynb):ジャッジによるファイナルチャレンジの解説をご紹介しています。競技者の皆さんの独創的で素晴らしい解法↓↓↓もぜひチェックしてください。
+
+## トップチームの解法解説
+[トップチームの解法解説](https://github.com/quantum-challenge/2019/tree/master/top%20ten%20submissions):トップチームの皆さんが今回の問題にどう挑んだのか。アプローチ、駆使したテクニックなどを各チームが公開しています。
 
 ## 参加登録
 [公式サイト](https://quantumchallenge19.com/)からの参加登録がまだお済みでない方は、必ずコンテストに取りかかる前に[参加登録](https://angelhack.typeform.com/to/UA44d9)の完了をお願いいたします。登録が完了していない場合は、参加の権利、および入賞時のアワード取得ができませんのでご注意ください。
