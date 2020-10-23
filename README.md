@@ -12,7 +12,7 @@ First of all, thank you for signing up for the competition! We are excited to se
 Before you get started, we have a few important notices to remind you.
 
 ## Registration
-If you have not gone through the registration process yet, please make sure to go to the IBM Quantum Challenge [Official Website](https://quantumchallenge19.com/) and complete this [Registration Form](https://angelhack.typeform.com/to/UA44d9) before you get started. You won't be permitted to participate & win prizes without completing the registration!
+If you have not gone through the registration process yet, please make sure to go to the IBM Quantum Challenge [Official Website](https://ibmquantum.angelhack.com/) and complete this [Registration Form](https://angelhack.typeform.com/to/UA44d9) before you get started. You won't be permitted to participate & win prizes without completing the registration!
 
 The challenge period goes on for four weeks from September 16th to October 14th, 2019. The first three weeks will be a series of learning challenges during which anyone who is eligible may register to join the competition. Registration closes when the final challenge starts on October 7th, 2019.
 
