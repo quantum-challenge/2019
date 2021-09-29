@@ -34,7 +34,7 @@ The challenge content has been shared with the public on the following dates.<br
 
 | Week  | Challenge | Scheduled Update Date  |
 | ---     | ---    | --- |
-| Week 0 |[For Beginners: The atoms of computation](https://quantum-computing.ibm.com/support/guides/introduction-to-quantum-circuits?page=5cae6b9d35dafb4c01214bb1)  | Sept 16th, 2019 |
+| Week 0 |[For Beginners: The atoms of computation](https://github.com/qiskit-community/qiskit-textbook/blob/main/content/ch-states/atoms-computation.ipynb)  | Sept 16th, 2019 |
 | Week 1 |[Learning Challenge Exercise I](https://github.com/quantum-challenge/2019/blob/master/problems/week1/week1_en.ipynb) | Sept 16th, 2019 |
 | Week 2  |[Learning Challenge Exercise II](https://github.com/quantum-challenge/2019/blob/master/problems/week2/week2_en.ipynb) | Sept 23rd, 2019 |
 | Week 3  |[Learning Challenge Exercise III](https://github.com/quantum-challenge/2019/blob/master/problems/week3/week3_en.ipynb)| Sept 30th, 2019 |
